@@ -1,0 +1,9 @@
+body{
+    background: white url("images/background.jpeg") no-repeat;
+    background-size: cover;
+}
+li a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+}
